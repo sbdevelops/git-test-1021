@@ -1,0 +1,3 @@
+This file is almost empty. 
+It doesn't have too many lines relative to many files you'd see in a Git repository.
+Therefore, it is considered to be almost empty.
